@@ -1,0 +1,50 @@
+@import "~node_modules/@wryrych/design-tokens-example/dist/css/variables.css";
+
+* {
+  margin-block: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  line-height: 1;
+}
+
+h1 {
+  font-size: var(--font-size-7);
+  color: var(--color-brand-heaven);
+}
+
+h2 {
+  font-size: var(--font-size-6);
+  color: var(--color-base-bay-300);
+}
+
+h3 {
+  font-size: var(--font-size-5);
+  color: var(--color-base-bay-200);
+}
+
+h4 {
+  font-size: var(--font-size-4);
+  color: var(--color-base-bay-100);
+}
+
+h5 {
+  font-size: var(--font-size-3);
+  color: var(--color-base-grass-100);
+}
+
+h6 {
+  font-size: var(--font-size-2);
+  color: var(--color-base-grass-200);
+}
+
+p {
+  font-size: var(--font-size-1);
+  color: var(--color-base-grass-300);
+}

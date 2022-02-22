@@ -1,0 +1,17 @@
+{
+  "name": "design-tokens-frontend-a",
+  "version": "0.1.0",
+  "private": true,
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "@wryrych/design-tokens-example": "^1.0.2"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
