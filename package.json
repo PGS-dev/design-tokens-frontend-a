@@ -9,7 +9,7 @@
     "build": "parcel build"
   },
   "dependencies": {
-    "@wryrych/design-tokens-example": "^1.0.2"
+    "@wryrych/design-tokens-example": "^1.0.3"
   },
   "devDependencies": {
     "parcel": "latest"
